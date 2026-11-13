@@ -1,0 +1,9 @@
+file_format: "1"
+id: dummy_test
+name: DummyTest
+type: shield
+url: https://github.com/biahlil/Dumpad-zmk
+requires:
+  - pro_micro
+features:
+  - keys
